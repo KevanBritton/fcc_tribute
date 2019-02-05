@@ -1,0 +1,49 @@
+body {
+  margin: 0px;
+}
+
+#main {
+  background: linear-gradient(to right, #156e79, #1d852d);
+  border-style: solid;
+  border-width: 10px;
+}
+
+#title {
+  text-align: center;
+  font-size: 58px;
+}
+
+#img-div {
+  width: 90%;
+  margin: auto auto 15px auto;
+  border-style: dotted;
+  border-width: 10px;
+  padding: 0px 0px 10px 0px;
+}
+
+#image {
+  display: block;
+  margin: 10px auto 10px auto;
+width: 100%;
+  max-width: 812px;
+  border: solid;
+}
+
+#img-caption {
+  text-align: center;
+  width: 200px;
+  margin: auto;
+}
+
+#tribute-link {
+  text-align: center;
+  display: block;
+  margin: auto;
+  padding: 10px 0px 10px 0px;
+}
+
+#tribute-info {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
